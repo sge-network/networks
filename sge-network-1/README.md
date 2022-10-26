@@ -160,7 +160,7 @@ sged start
 
 
 ## Genesis Time
-The genesis transactions sent before 0630HRS UTC 28th October, 2022 will be used to publish the `genesis.json` at 0830HRS UTC 28th August 2022
+The genesis transactions sent before 0630HRS UTC 28th October, 2022 will be used to publish the `genesis.json` at 0830HRS UTC 28th October 2022
 
 <!-- > Submitting Gentx is now closed. Genesis has been published and block generation has started -->
 
