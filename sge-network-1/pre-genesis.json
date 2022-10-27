@@ -233,7 +233,7 @@
       "params": {
         "blocks_per_year": "48000",
         "mint_denom": "usge",
-        "phases": [],
+        "phases": [{ "inflation": "0.000000000000000000", "year_coefficient": "0.01" }],
         "exclude_amount": "130000000000000"
       }
     },
