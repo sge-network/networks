@@ -228,10 +228,15 @@ Commit Hash: [63dd8e8081e572f60fc02e0359657e41624e47c6](https://github.com/sge-n
 The binary can be downloaded from [here](https://github.com/sge-network/sge/releases/tag/v0.0.1)
 
 ## Explorer
-The Block Explorer for this chain is available [here]()
+The Block Explorer for this chain is available [here](https://blockexplorer.testnet.sgenetwork.io/)
 
 ## Faucet
-Discord Faucet is available [here]()
+Discord Faucet is available [here](https://discord.gg/2RU9FZVQ)
 
 ### Documentation
 For the most up to date documentation please visit [Gitbook](https://six-sigma-sports.gitbook.io/documentation/)
+
+### RPC & API 
+- RPC is available [here](http://rpc.testnet.sgenetwork.io:26657/)
+- API is available [here](http://api.testnet.sgenetwork.io:1317/)
+
