@@ -453,7 +453,12 @@
       "validator_slash_events": []
     },
     "dvm": {
-      "params": {}
+        "params": {},
+        "publicKeys": {
+          "list": [
+            "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAzoP3SVo1tUEhd+cF/zw+8XxtOScdJyD7T3QqKzpC9x0=\n-----END PUBLIC KEY-----"
+          ]
+        }
     },
     "evidence": {
       "evidence": []
