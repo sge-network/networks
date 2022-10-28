@@ -109,9 +109,8 @@ or
 - Initialize node
 
 ```shell
-sged init {{NODE_NAME}}
+sged init {{NODE_NAME}} --chain-id sge-network-1
 ```
-- Replace the `~/.sge/config/genesis.json` file with the `pre-genesis.json` in this repo and rename it to `genesis.json`
 - Create a new key
 
 ```shell
