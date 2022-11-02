@@ -78,7 +78,7 @@ __Note__: It is assumed you are currently operating a full-node running v0.0.1 o
    Before exporting state via the following command, the `sged` binary must be stopped!
 
    ```bash
-   $ sged export > v0.0.1_genesis_export.json
+   $ sged export &> v0.0.1_genesis_export.json
    ```
 5. At this point you now have a valid exported genesis state! All further steps now require
 v0.0.2 of [SGE](https://github.com/sge-network/sge).
