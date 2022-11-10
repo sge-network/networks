@@ -8,38 +8,38 @@ This change includes some breaking changes in the form of store modifications, p
 
 For this upgrade, we will be using a software-upgrade proposal. This proposal contains the name of the upgrade and the height at which the upgrade will occur.
 
-- Upgrade Name: **Peace**
-- Proposal ID: **2**
-- Proposal Hash: **0B7584087CCF7781FF0A18CCFACB2A10364ADD0F39F9F58096ADE1C703E2C007**
-- Upgrade Height: **199000**
-- Approx Upgrade Time: **10/10/2022 14:20 Hrs (UTC)**
+- Upgrade Name: **0.0.3**
+- Proposal ID: **3**
+- Proposal Hash: **6F99FDAAEBE671C96041B9411FDBB80B85A140BC882473B6D942397BFE392050**
+- Upgrade Height: **215000**
+- Approx Upgrade Time: **11/10/2022 11:15 Hrs (UTC)**
 
-The proposal for the upgrade has been made at **Nov 09, 2022 13:27:12 Hrs (UTC)**. According to our current governance parameters, the voting period is set to 1 Day. So the validators need to vote on it to make the proposal pass within **Nov 10, 2022 13:27:12 Hrs (UTC)**. The proposal can be viewed on the [block explorer](https://blockexplorer.testnet.sgenetwork.io/proposals/2).
+The proposal for the upgrade has been made at **Nov 10, 2022 11:14 Hrs (UTC)**. According to our current governance parameters, the voting period is set to 1 Day. So the validators need to vote on it to make the proposal pass within **Nov 11, 2022 11:14 Hrs (UTC)**. The proposal can be viewed on the [block explorer](https://blockexplorer.testnet.sgenetwork.io/proposals/3).
 
 ---
 
 To view the proposal, run the query:
 ```
-sged q gov proposal 2
+sged q gov proposal 3
 ```
 
 To vote **yes** to the proposal:
 ```
-sged tx gov vote 2 yes --from key --chain-id sge-network-1 --fees 1000usge
+sged tx gov vote 3 yes --from key --chain-id sge-network-1 --fees 1000usge
 ```
 
 To query the current tally of votes for the proposal,
 ```
-sged q gov votes 2
+sged q gov votes 3
 ```
 
 Once the voting period is over, the state of the proposal (accepted/rejected) can be queried:
 ```
-sged q gov proposal 2
+sged q gov proposal 3
 ```
 ---
 
-If the proposal passes, the chain will continue to run up to the height mentioned in the proposal (199000). At this height, all nodes will automatically stop generating blocks expecting an upgrade.
+If the proposal passes, the chain will continue to run up to the height mentioned in the proposal (215000). At this height, all nodes will automatically stop generating blocks expecting an upgrade.
 
 To do the upgrade:
 - Stop the node
