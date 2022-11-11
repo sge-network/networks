@@ -12,7 +12,7 @@ For this upgrade, we will be using a software-upgrade proposal. This proposal co
 - Proposal ID: **3**
 - Proposal Hash: **6F99FDAAEBE671C96041B9411FDBB80B85A140BC882473B6D942397BFE392050**
 - Upgrade Height: **215000**
-- Approx Upgrade Time: **11/10/2022 11:15 Hrs (UTC)**
+- Approx Upgrade Time: **11/10/2022 16:00 Hrs (UTC)**
 
 The proposal for the upgrade has been made at **Nov 10, 2022 11:14 Hrs (UTC)**. According to our current governance parameters, the voting period is set to 1 Day. So the validators need to vote on it to make the proposal pass within **Nov 11, 2022 11:14 Hrs (UTC)**. The proposal can be viewed on the [block explorer](https://blockexplorer.testnet.sgenetwork.io/proposals/3).
 
