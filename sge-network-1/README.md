@@ -234,7 +234,7 @@ The Block Explorer for this chain is available [here](https://blockexplorer.test
 Discord Faucet is available [here](https://discord.gg/2RU9FZVQ)
 
 ### Documentation
-For the most up to date documentation please visit [Gitbook](https://six-sigma-sports.gitbook.io/documentation/)
+For the most up to date documentation please visit [Gitbook](https://six-sigma-sports.gitbook.io/documentation-1/)
 
 ### RPC & API 
 - RPC is available [here](http://rpc.testnet.sgenetwork.io:26657/)
