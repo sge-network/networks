@@ -531,7 +531,7 @@
     "dvm": {
       "publicKeys": {
         "list": [
-          "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEA/31BzMn8htO6M3Q/X61vFDRTW1YXP8xHQRl8WRm+8s8=\n-----END PUBLIC KEY-----"
+          "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAjPNgZC7cG6lW0oDwylauOZx/CoaqNA4pPGyu9a6Vpa0=\n-----END PUBLIC KEY-----"
         ]
       },
       "params": {
