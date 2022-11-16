@@ -159,7 +159,7 @@ sged start
 
 
 ## Genesis Time
-The genesis transactions sent before 0530HRS UTC 17th November, 2022 will be used to publish the `genesis.json` at 0730HRS UTC 17th November, 2022
+The genesis transactions should be sent before 0530HRS UTC on 17th November, 2022 and the same will be used to publish the `genesis.json` at 0730HRS UTC 17th November, 2022
 
 <!-- > Submitting Gentx is now closed. Genesis has been published and block generation has started -->
 
@@ -228,15 +228,15 @@ Commit Hash: [c2f074f15fa895b0d8e67a9d88bfd2b9d9833b2f](https://github.com/sge-n
 The binary can be downloaded from [here](https://github.com/sge-network/sge/releases/tag/v0.0.3)
 
 ## Explorer
-The Block Explorer for this chain is available [here](https://blockexplorer.testnet.sgenetwork.io/)
+The Block Explorer for this chain is available [here]()
 
 ## Faucet
-Discord Faucet is available [here](https://discord.gg/2RU9FZVQ)
+Discord Faucet is available [here]()
 
 ### Documentation
 For the most up to date documentation please visit [Gitbook](https://six-sigma-sports.gitbook.io/documentation-1/)
 
 ### RPC & API 
-- RPC is available [here](http://rpc.testnet.sgenetwork.io:26657/)
-- API is available [here](http://api.testnet.sgenetwork.io:1317/)
+- RPC is available [here]()
+- API is available [here]()
 
