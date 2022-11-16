@@ -159,11 +159,12 @@ sged start
 
 
 ## Genesis Time
-The genesis transactions sent before 0630HRS UTC 28th October, 2022 will be used to publish the `genesis.json` at 0830HRS UTC 28th October 2022
+The genesis transactions sent before 0530HRS UTC 17th November, 2022 will be used to publish the `genesis.json` at 0730HRS UTC 17th November, 2022
 
 <!-- > Submitting Gentx is now closed. Genesis has been published and block generation has started -->
 
 ---
+
 ## After genesis creation and network launch
 
 ### Step 1: Start a full node
@@ -198,7 +199,7 @@ sged start
 
 ```
 sged tx staking create-validator \
-  --amount 50000000usge \
+  --amount 500000000usge \
   --commission-max-change-rate 0.01 \
   --commission-max-rate 0.2 \
   --commission-rate 0.1 \
@@ -221,7 +222,7 @@ The `persistent_peers` needs a comma-separated list of trusted peers on the netw
 
 ## Version
 This chain is currently running on sge [v0.0.3](https://github.com/sge-network/sge/releases/tag/v0.0.3)
-Commit Hash: [63dd8e8081e572f60fc02e0359657e41624e47c6](https://github.com/sge-network/sge/commit/c2f074f15fa895b0d8e67a9d88bfd2b9d9833b2f)
+Commit Hash: [c2f074f15fa895b0d8e67a9d88bfd2b9d9833b2f](https://github.com/sge-network/sge/commit/c2f074f15fa895b0d8e67a9d88bfd2b9d9833b2f)
 
 ## Binary
 The binary can be downloaded from [here](https://github.com/sge-network/sge/releases/tag/v0.0.3)
@@ -235,7 +236,7 @@ Discord Faucet is available [here](https://discord.gg/2RU9FZVQ)
 ### Documentation
 For the most up to date documentation please visit [Gitbook](https://six-sigma-sports.gitbook.io/documentation-1/)
 
-### RPC & API
+### RPC & API 
 - RPC is available [here](http://rpc.testnet.sgenetwork.io:26657/)
 - API is available [here](http://api.testnet.sgenetwork.io:1317/)
 
