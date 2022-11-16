@@ -208,7 +208,7 @@ sged tx staking create-validator \
   --min-self-delegation 1 \
   --moniker [validator_moniker] \
   --pubkey $(sged tendermint show-validator) \
-  --chain-id sge-network-1 \
+  --chain-id sge-testnet-1 \
   -y
 ```
 
