@@ -182,7 +182,7 @@ sged init {{NODE_NAME}}
 curl https://github.com/sge-network/blob/master/networks/sge-testnet-1/genesis.json > $HOME/.sge/config/genesis.json
 ```
 
-- Add `persistent_peers` or `seeds` in `${HOME}/.sge/config/config.toml` from `sge-testnet-1/peers-nodes.txt` from the `master` branch of [network repository](https://github.com/sge-network/networks)
+- Add `persistent_peers` or `seeds` in `${HOME}/.sge/config/config.toml` from `sge-testnet-1/peers.txt` from the `master` branch of [network repository](https://github.com/sge-network/networks/blob/master/sge-testnet-1/peers.txt)
 - Start node
 
 ```shell
@@ -215,7 +215,7 @@ sged tx staking create-validator \
 ---
 
 ## Persistent Peers
-The `persistent_peers` needs a comma-separated list of trusted peers on the network, you can acquire it from the [peer-nodes.txt](https://github.com/sge-network/blob/master/networks/sge-testnet-1/peer-nodes.txt) for example:
+The `persistent_peers` needs a comma-separated list of trusted peers on the network, you can acquire it from the [peers.txt](https://github.com/sge-network/networks/blob/master/sge-testnet-1/peers.txt) for example:
 ```
 4980b478f91de9be0564a547779e5c6cb07eb995@3.239.15.80:26656,0e7042be1b77707aaf0597bb804da90d3a606c08@3.88.40.53:26656
 ```
