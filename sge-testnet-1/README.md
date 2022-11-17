@@ -231,7 +231,7 @@ The binary can be downloaded from [here](https://github.com/sge-network/sge/rele
 The Block Explorer for this chain is available [here](https://blockexplorer.testnet.sgenetwork.io/)
 
 ## Faucet
-Discord Faucet is available [here](https://discord.gg/2RU9FZVQ)
+Discord Faucet is available [here](https://discord.gg/87K9bPCuDa)
 
 ### Documentation
 For the most up to date documentation please visit [Gitbook](https://six-sigma-sports.gitbook.io/documentation-1/)
